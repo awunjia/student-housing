@@ -22,7 +22,15 @@
     <link rel="stylesheet" href="{{ asset('css/icomoon.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('/images/favicon-small.png') }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/images/-normal.png') }}">
+    <!-- Bootstrap CSS (if needed) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap Icons CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+
+
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('images/favicon-small.png') }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('images/favicon-normal.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/favicon-small.png') }}" type="image/png" />
 
 </head>

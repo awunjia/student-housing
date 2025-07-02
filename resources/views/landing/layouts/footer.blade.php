@@ -1,69 +1,76 @@
 <footer class="ftco-footer ftco-section">
     <div class="container">
         <div class="row mb-5">
+
+            <!-- About / Contact Info -->
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Findstate</h2>
-                    <p>Far far away, behind the word mountains, far from the countries.</p>
-                    <ul class="ftco-footer-social list-unstyled mt-5">
+                    <h2 class="ftco-heading-2">StudentHousing</h2>
+                    <p>Pahjoisplandi 15 B 2</p>
+                    <p>contact@studenthousing.fi</p>
+                    <p>Ma-Pe 09:00 - 17:00</p>
+                    <p>(09) 3676525</p>
+                    <ul class="ftco-footer-social list-unstyled mt-3">
                         <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
                         <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
                     </ul>
                 </div>
             </div>
+
+            <!-- Housing Application & Info -->
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4 ml-md-4">
-                    <h2 class="ftco-heading-2">Community</h2>
+                    <h2 class="ftco-heading-2">Housing Application</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Search Properties</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>For Agents</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Reviews</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>FAQs</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Housing application</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Applying for an apartment</a>
+                        </li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Security fee</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Moving in</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Information for Exchange
+                                Students</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Rental terms</a></li>
                     </ul>
                 </div>
             </div>
+
+            <!-- Bookings & Tenant Info -->
             <div class="col-md">
                 <div class="ftco-footer-widget mb-4 ml-md-4">
-                    <h2 class="ftco-heading-2">About Us</h2>
+                    <h2 class="ftco-heading-2">Tenant Services</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Our Story</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Meet the team</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Careers</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Bookings</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Tenant activity</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Cancellation of the tenancy
+                                agreement</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Rules and regulations</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Maintenance</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Rescue plan</a></li>
                     </ul>
                 </div>
             </div>
+
+            <!-- Moving Out & Other Info -->
             <div class="col-md">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Company</h2>
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                    <h2 class="ftco-heading-2">Moving & Facilities</h2>
                     <ul class="list-unstyled">
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>About Us</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Press</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
-                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Careers</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Study & Chill</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Moving out</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Fault report and door opening
+                                requests</a></li>
+                        <li><a href="#"><span class="icon-long-arrow-right mr-2"></span>Shared cars</a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-md">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Have a Questions?</h2>
-                    <div class="block-23 mb-3">
-                        <ul>
-                            <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View,
-                                    San Francisco, California, USA</span></li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929
-                                        210</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope pr-4"></span><span
-                                        class="text">info@yourdomain.com</span></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+
         </div>
+
         <div class="row">
             <div class="col-md-12 text-center">
-
-                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                <p>
+                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     Copyright &copy;
                     <script>document.write(new Date().getFullYear());</script> All rights reserved | This template is
                     made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a
@@ -74,12 +81,3 @@
         </div>
     </div>
 </footer>
-
-
-
-<!-- loader -->
-<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
-        <circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
-        <circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
-            stroke="#F96D00" />
-    </svg></div>

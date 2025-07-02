@@ -18,8 +18,10 @@ return new class extends Migration {
             $table->string('address');
             $table->json('gallery_images')->nullable();
             $table->decimal('price', 10, 2);
+            $table->decimal('old_price', 10, 2)->nullable();
             $table->date('available_from')->nullable();
             $table->boolean('is_furnished')->default(false);
+            $table->decimal('area_sqft')->nullable();
             $table->integer('bedrooms')->nullable();
             $table->integer('bathrooms')->nullable();
             $table->string('zipcode')->nullable();

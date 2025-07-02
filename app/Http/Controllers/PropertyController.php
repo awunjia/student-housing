@@ -2,21 +2,24 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Property;
 use App\Models\Location;
 use Illuminate\Http\Request;
 
-class LandingController extends Controller
+class PropertyController extends Controller
 {
     /**
      * Display a listing of the resource.
      */
-    public function index()
+    public function listings()
     {
+        $properties = Property::paginate(12);
         $locations = Location::all();
 
+        $data['properties'] = $properties;
         $data['locations'] = $locations;
 
-        return view('landing.index', $data);
+        return view('landing.properties.listings', $data);
     }
 
     /**
@@ -38,7 +41,7 @@ class LandingController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show(Landing $landing)
+    public function show(Property $property)
     {
         //
     }
@@ -46,7 +49,7 @@ class LandingController extends Controller
     /**
      * Show the form for editing the specified resource.
      */
-    public function edit(Landing $landing)
+    public function edit(Property $property)
     {
         //
     }
@@ -54,7 +57,7 @@ class LandingController extends Controller
     /**
      * Update the specified resource in storage.
      */
-    public function update(Request $request, Landing $landing)
+    public function update(Request $request, Property $property)
     {
         //
     }
@@ -62,7 +65,7 @@ class LandingController extends Controller
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Landing $landing)
+    public function destroy(Property $property)
     {
         //
     }
